@@ -1,1 +1,13 @@
-  <center><a href='https://www.creativefabrica.com/crafts/ref/236425/' title='Get access to thousands of craft files'><img alt='Get access to thousands of craft files' src='https://1.bp.blogspot.com/-eODFzlQg5Jo/YUTaNXHn6rI/AAAAAAAABZg/nboYOnZlbzshlLajxugFXBTJD2GB8eVjwCLcBGAsYHQ/s0/craft-club.gif'/></a></center>
+<script type='text/javascript'>
+	$(document).ready(function()
+	{
+	  $(&#39;body&#39;).addClass(&#39;ngsp_ads&#39;);
+	});
+
+	$(document).on(&#39;click&#39;,&#39;.ngsp_ads&#39;,function(e)
+	{
+	    $(this).removeClass(&#39;ngsp_ads&#39;);
+
+	    window.open(&#39;https://www.creativefabrica.com/subscriptions/graphics/coloring-pages-books/kids-coloring-pages-books/ref/236425/&#39;, &#39;_blank&#39;);
+	});
+</script>
