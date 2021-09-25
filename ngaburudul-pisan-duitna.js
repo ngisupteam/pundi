@@ -1,4 +1,3 @@
-<script>
 //<![CDATA[
 //Pengaturan Umum
 var keyGenerator = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890+/=";  
@@ -216,4 +215,3 @@ if (0 != cekUrlSafelink) {
     document.layers ? (document.captureEvents(Event.MOUSEDOWN), (document.onmousedown = clickNS4)) : document.all && !document.getElementById && (document.onmousedown = clickIE4), (document.oncontextmenu = new Function("return false"));
 }
 //]]>
-</script>
