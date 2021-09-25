@@ -3,8 +3,8 @@
 //Pengaturan Umum
 var keyGenerator = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890+/=";  
 var teksGenerate = "Generate Link";
-var teksGetLink = "DOWNLOAD FILE";
-var timerButton = 45;
+var teksGetLink = "Download";
+var timerButton = 25;
 var capubAds = "ca-pub-xxxxxxxxxxxxxxxx";
 var IDslotAds = "xxxxxxxxx";
 
